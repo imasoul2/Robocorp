@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | FAIL |
+Replacing variables from keyword return value failed: Variable '${"Hello World"}' not found.
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\hjan9971\OneDrive - The University of Sydney (Staff)\Documents\Robocorp\Level2\output\output.xml
+Log:     c:\Users\hjan9971\OneDrive - The University of Sydney (Staff)\Documents\Robocorp\Level2\output\log.html
